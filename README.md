@@ -10,3 +10,5 @@ Este projeto se trata de uma placa de circuito impresso (PCB) artística com o t
 | Switch  | 1  |
 | Battery Holder 20mm  | 1  |
 | Side view led | 6  |
+
+link do carrinho na Mouser Electronics https://br.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=1573743276
